@@ -5,7 +5,7 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 @Data
-//@AllArgsConstructor
+////git status@AllArgsConstructor
 @NoArgsConstructor
 public class Course {
 
